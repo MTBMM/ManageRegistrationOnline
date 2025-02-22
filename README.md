@@ -6,6 +6,7 @@
 ## Descripe Project
 **ManageCourseOnline** is a technological solution designed to organize and manage the process of course registration, tracking, and participation efficiently. This system offers the following key features:
 - For Students:
+	- Login Google/Facebook
     - Register for courses conveniently.
     - Track learning progress and view course materials, including videos.
     - Evaluate courses and provide feedback for lessons when certain concepts remain unclear.
